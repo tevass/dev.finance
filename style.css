@@ -201,7 +201,7 @@ td.income {
 
 }
 td.expanse {
-    color: var(red);
+    color: var(--red);
 }
 
 /* Modal --------------- */
